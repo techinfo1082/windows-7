@@ -1,0 +1,6 @@
+{
+  "name": "Achour-Tech-Pro",
+  "image": "hammouch/akayf-web",
+  "forwardPorts": [3000],
+  "overrideCommand": false
+}
